@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:fluttercinema/models/model.dart';
+import 'package:fluttercinema/shared/shared.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:fluttercinema/extensions/extension.dart';
+part 'selectable_box.dart';
+part 'movie_card.dart';
+part 'rating_star.dart';
+part 'browse_button.dart';
+part 'coming_soon_card.dart';
+part 'promo_card.dart';
+part 'custom_spinkit.dart';
+part 'cast_crew_card.dart';
+part 'date_card.dart';

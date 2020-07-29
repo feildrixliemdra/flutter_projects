@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901629211268",
+    "firebase_url": "https://flutix-f1dcf.firebaseio.com",
+    "project_id": "flutix-f1dcf",
+    "storage_bucket": "flutix-f1dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901629211268:android:191f17c504c43efc1408d1",
+        "android_client_info": {
+          "package_name": "com.fliemdra.fluttercinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901629211268-bv9nqieqpassckhu2s11rf4l89r9rj70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5Pbl1JkrZF4EaEiDy8MYVVaXvJ4qSsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901629211268-bv9nqieqpassckhu2s11rf4l89r9rj70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
